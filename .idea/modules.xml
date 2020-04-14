@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BLL/BLL.iml" filepath="$PROJECT_DIR$/BLL/BLL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreading_Opdracht.iml" filepath="$PROJECT_DIR$/Multithreading_Opdracht.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RunApp/RunApp.iml" filepath="$PROJECT_DIR$/RunApp/RunApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VIEW/VIEW.iml" filepath="$PROJECT_DIR$/VIEW/VIEW.iml" />
+    </modules>
+  </component>
+</project>
